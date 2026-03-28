@@ -1,24 +1,19 @@
 <div align="center">
 
-# Hi, I'm Danyal
+# Danyal
 
-📍 Islamabad, Pakistan &nbsp;|&nbsp; 💻 Full-Stack Developer &nbsp;|&nbsp; 🛠️ Builder
+📍 Islamabad, Pakistan &nbsp;·&nbsp; Full-Stack Developer
 
 </div>
 
 <br>
 
-Python and Node.js on the backend. React for web, Flutter for mobile. I pick the right tool for the job and ship it.
+Python and Node.js on the backend. React on the front. I pick the right tool for the job and ship it.
 
----
+<br>
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02B3BA?style=for-the-badge&logo=flutter&logoColor=white)
-
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
