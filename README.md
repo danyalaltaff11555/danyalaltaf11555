@@ -4,8 +4,6 @@
 
 📍 Islamabad, Pakistan &nbsp;·&nbsp; Full-Stack Developer
 
-</div>
-
 <br>
 
 Python and Node.js on the backend. React on the front. I pick the right tool for the job and ship it.
@@ -17,3 +15,5 @@ Python and Node.js on the backend. React on the front. I pick the right tool for
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+</div>
